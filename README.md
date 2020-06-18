@@ -1,6 +1,10 @@
-# PocCustomLib
+# Custom Library POC
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.8.
+
+## Install Dependencies
+
+npm install
 
 ## Development server
 
